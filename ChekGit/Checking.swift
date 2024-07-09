@@ -10,9 +10,11 @@ import UIKit
 
 class Checking: UIViewController {
     
+    var name: String = ""
     override func viewDidLoad() {
         super.viewDidLoad()
         print("fdfdfdff")
        // print("New comment")
     }
+    
 }
