@@ -6,3 +6,11 @@
 //
 
 import Foundation
+import UIKit
+
+class Checking: UIViewController {
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+    }
+}
