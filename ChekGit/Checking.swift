@@ -13,5 +13,6 @@ class Checking: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("fdfdfdff")
+        print("New comment")
     }
 }
