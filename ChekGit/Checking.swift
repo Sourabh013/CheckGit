@@ -15,6 +15,11 @@ class Checking: UIViewController {
         super.viewDidLoad()
         print("fdfdfdff")
         print("New comment")
+        print("New comment")
+
+        print("New comment")
+
+        
     }
     
 }
