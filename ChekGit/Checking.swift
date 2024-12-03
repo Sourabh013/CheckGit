@@ -20,6 +20,12 @@ class Checking: UIViewController {
         print("New comment")
         print("fdfdfdff")
         print("fdfdfdff")
+        print("New comment")
+        print("New comment")
+
+        print("New comment")
+        print("fdfdfdff")
+        print("fdfdfdff")
         
     }
     
