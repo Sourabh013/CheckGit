@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18CCBBFB2CFF3CD00069BE7D /* ADDSWIFT.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18CCBBFA2CFF3CD00069BE7D /* ADDSWIFT.swift */; };
 		E643F3962C3D1E9700E84B35 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E643F3952C3D1E9700E84B35 /* AppDelegate.swift */; };
 		E643F3982C3D1E9700E84B35 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E643F3972C3D1E9700E84B35 /* SceneDelegate.swift */; };
 		E643F39A2C3D1E9700E84B35 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E643F3992C3D1E9700E84B35 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		18CCBBFA2CFF3CD00069BE7D /* ADDSWIFT.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADDSWIFT.swift; sourceTree = "<group>"; };
 		E643F3922C3D1E9700E84B35 /* ChekGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChekGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E643F3952C3D1E9700E84B35 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E643F3972C3D1E9700E84B35 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				E643F3952C3D1E9700E84B35 /* AppDelegate.swift */,
 				E643F3972C3D1E9700E84B35 /* SceneDelegate.swift */,
 				E643F3992C3D1E9700E84B35 /* ViewController.swift */,
+				18CCBBFA2CFF3CD00069BE7D /* ADDSWIFT.swift */,
 				E643F39B2C3D1E9700E84B35 /* Main.storyboard */,
 				E643F39E2C3D1E9900E84B35 /* Assets.xcassets */,
 				E643F3A02C3D1E9900E84B35 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				E643F39A2C3D1E9700E84B35 /* ViewController.swift in Sources */,
 				E643F3AA2C3D1FCC00E84B35 /* Checking.swift in Sources */,
+				18CCBBFB2CFF3CD00069BE7D /* ADDSWIFT.swift in Sources */,
 				E643F3962C3D1E9700E84B35 /* AppDelegate.swift in Sources */,
 				E643F3982C3D1E9700E84B35 /* SceneDelegate.swift in Sources */,
 			);
