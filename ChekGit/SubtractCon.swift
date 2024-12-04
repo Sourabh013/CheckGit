@@ -15,5 +15,7 @@ class SubtractCon: UIViewController {
         super.viewDidLoad()
         print("New file")
     }
-    
+    func sub() {
+        
+    }
 }
